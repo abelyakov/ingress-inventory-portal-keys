@@ -1,7 +1,7 @@
 # json2csv
 Script to extract info about portal keys from player inventory in Ingress game.
 ## Usage
-
+json2csv input.json (optional)output.csv
 ## License
 
 Copyright © 2015
